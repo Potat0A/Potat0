@@ -16,7 +16,7 @@ Just wanted to try out Godot
                     </p>
                     
                   
-                  
+  *   ### Socials        
   <p align="left">
   <a href="https://www.github.com/Potat0A" target="_blank" rel="noreferrer">
                     <picture>
@@ -31,5 +31,6 @@ Just wanted to try out Godot
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
                     </picture>
+*   ### GitHub Stats
                       <a><p>Badges</p><a
                       href="http://www.github.com/Potat0A"><img src="https://github-readme-stats.vercel.app/api?username=Potat0A&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Potat0A's GitHub stats" /></a>
